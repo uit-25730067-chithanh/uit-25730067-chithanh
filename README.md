@@ -1,36 +1,24 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**uit-25730067-chithanh/uit-25730067-chithanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Hi there 👋, I’m Đặng Chí Thanh
 
-I'm a **Senior Frontend Engineer** and **Web Team Lead** with 6+ years of professional experience, currently working across multiple projects and companies. I specialize in building scalable, high-performance web applications using **React (Next.js)**, **Vue (Nuxt.js)**, **TypeScript**, **Astro**, and modern frontend tooling.
+I'm a **Full Stack Developer** and **Web Team Lead** with over 6 years of experience, currently working on multiple high-impact projects across startups and enterprise environments. I specialize in building **scalable**, **high-performance** web applications with modern technologies and clean architecture principles.
 
-I’m passionate about:
-- ⚡ Web performance optimization & clean architecture
-- 🤝 Team collaboration, mentoring, and leading engineering teams
-- 🧠 Learning and exploring new technologies, especially **AI**
+### 🚀 About me
+- 👨‍💻 Strong background in both **frontend** and **backend** development  
+- 🎓 Currently pursuing a second degree in **Artificial Intelligence** at UIT (University of Information Technology – VNU-HCM)  
+- 🧠 Passionate about **AI applications**, **developer productivity**, and **DX (Developer Experience)**  
+- 🤝 Active in mentoring, team collaboration, and knowledge-sharing within the tech community  
+- ⚡ Advocate for clean code, automated testing, and robust deployment pipelines  
 
-Currently, I’m pursuing a second degree in **Artificial Intelligence** at UIT – aiming to bridge my strong frontend foundation with the world of intelligent systems and products. I actively learn about **AI applications**, **cloud computing**, and **developer workflows**, and I enjoy building tools that enhance productivity and user experience.
+### 🛠️ Tech Stack
+- **Frontend**: React (Next.js), Vue (Nuxt.js), TypeScript, Tailwind CSS, Astro  
+- **Backend**: Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ  
+- **Tools & Infra**: Vitest, Playwright, Docker, CI/CD, Vercel, Railway, AWS  
 
-> I believe in continuous learning, sharing knowledge, and building tech that matters.
+> I enjoy bridging modern web development with AI, building tools that enhance both performance and usability.
 
-📬 Feel free to connect:
-- 💼 [LinkedIn](https://linkedin.com/in/christhanhdang)
-- 🌐 [Personal Projects](https://github.com/uit-25730067-chithanh?tab=repositories)
+📬 Let’s connect:
+- 💼 [LinkedIn](https://linkedin.com/in/christhanhdang)  
+- 🌐 [Portfolio](https://christhanhdang.dev)
+- 📁 [GitHub Projects](https://github.com/uit-25730067-chithanh?tab=repositories)  
 
 Thanks for visiting! 🚀
