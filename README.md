@@ -109,4 +109,6 @@ print("Let's connect:", me.connect())
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=uit-25730067-chithanh)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uit-25730067-chithanh&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+</p>
