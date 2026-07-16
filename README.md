@@ -44,13 +44,25 @@ class AboutMe:
         self.motto = "Those who keep learning will keep rising in life. — Charlie Munger"
 
         self.background = "Full Stack Developer (5+ yrs)"
-        self.currently_focus = ["Python", "Cloud Engineering", "AI/ML"]
+        self.current_focus = ["Python", "Cloud Engineering", "AI/ML"]
         self.interests = ["LLMs", "MLOps", "Prompt Engineering", "Dev Productivity"]
 
-        self.goals_2025 = [
-            "Build real-world AI projects",
-            "Deploy models with CI/CD & cloud",
-            "Master GitHub Projects & workflows"
+        self.featured_projects = [
+            {
+                "name": "SS004.10_FinalProject_TicTacToe",
+                "focus": "Game AI, Minimax",
+                "link": "https://github.com/uit-25730067-chithanh/SS004.10_FinalProject_TicTacToe"
+            },
+            {
+                "name": "CS115-Team05-PG",
+                "focus": "Reinforcement Learning, PyTorch, REINFORCE",
+                "link": "https://github.com/uit-25730067-chithanh/CS115-Team05-PG"
+            },
+            {
+                "name": "AI002-Team22-DT10",
+                "focus": "Responsible AI, Forecasting, Advisory System",
+                "link": "https://github.com/uit-25730067-chithanh/AI002-Team22-DT10"
+            }
         ]
 
     def tech_stack(self):
