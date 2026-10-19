@@ -139,7 +139,7 @@ print("Let's connect:", me.connect())
 <table align="center">
   <tr>
     <td align="right">
-      <p>2025 © Đặng Chí Thanh — All rights reserved</p>
+      <p>2025 – Present © Đặng Chí Thanh — All rights reserved</p>
     </td>
     <td align="left">
       <p>🚀 Member of <a href="https://github.com/ace-team-uit">ACE Team · UIT</a></p>
