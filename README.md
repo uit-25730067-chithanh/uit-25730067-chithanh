@@ -17,8 +17,8 @@
       </div>
       <h1>👋 Hi, Chí Thanh here!</h1>
       <p width="100%" align="center">
-        <a href="https://linkedin.com/in/christhanhdang">
-          <img src="https://img.shields.io/badge/LinkedIn-christhanhdang-0A66C2?style=flat&logo=linkedin" />
+        <a href="https://linkedin.com/in/chithanhdang">
+          <img src="https://img.shields.io/badge/LinkedIn-chithanhdang-0A66C2?style=flat&logo=linkedin" />
         </a>
         <a href="https://leetcode.com/chithanhdang">
           <img src="https://img.shields.io/badge/LeetCode-chithanhdang-yellow?style=flat&logo=leetcode" />
@@ -92,7 +92,7 @@ class AboutMe:
     def connect(self):
         return {
             "Portfolio": "https://anhcutist.me",
-            "LinkedIn": "https://linkedin.com/in/christhanhdang",
+            "LinkedIn": "https://linkedin.com/in/chithanhdang",
             "GitHub": "https://github.com/uit-25730067-chithanh"
         }
 
