@@ -20,11 +20,11 @@
         <a href="https://linkedin.com/in/chithanhdang">
           <img src="https://img.shields.io/badge/LinkedIn-chithanhdang-0A66C2?style=flat&logo=linkedin" />
         </a>
-        <a href="https://leetcode.com/chithanhdang">
-          <img src="https://img.shields.io/badge/LeetCode-chithanhdang-yellow?style=flat&logo=leetcode" />
+        <a href="https://leetcode.com/u/tcdtist">
+          <img src="https://img.shields.io/badge/LeetCode-tcdtist-yellow?style=flat&logo=leetcode" />
         </a>
-        <a href="https://www.hackerrank.com/chithanhdang">
-          <img src="https://img.shields.io/badge/HackerRank-chithanhdang-2EC866?style=flat&logo=hackerrank" />
+        <a href="https://www.hackerrank.com/profile/tcdtist">
+          <img src="https://img.shields.io/badge/HackerRank-tcdtist-2EC866?style=flat&logo=hackerrank" />
         </a>
         <a href="https://github.com/tcdtist">
           <img src="https://img.shields.io/badge/GitHub-tcdtist-black?style=flat&logo=github" />
