@@ -91,7 +91,7 @@ class AboutMe:
 
     def connect(self):
         return {
-            "Portfolio": "https://christhanhdang.dev",
+            "Portfolio": "https://anhcutist.me",
             "LinkedIn": "https://linkedin.com/in/christhanhdang",
             "GitHub": "https://github.com/uit-25730067-chithanh"
         }
