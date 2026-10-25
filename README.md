@@ -49,14 +49,14 @@ class AboutMe:
 
         self.featured_projects = [
             {
-                "name": "SS004.10_FinalProject_TicTacToe",
+                "name": "SS004-Team10-TicTacToe",
                 "focus": "Game AI, Minimax, Decision Theory",
-                "link": "https://github.com/uit-25730067-chithanh/SS004.10_FinalProject_TicTacToe"
+                "link": "https://github.com/uit-25730067-chithanh/SS004-Team10-TicTacToe"
             },
             {
-                "name": "CS115-Team05-PG",
+                "name": "CS115-Team05-Policy-Gradient",
                 "focus": "Reinforcement Learning, PyTorch, REINFORCE Policy Gradient",
-                "link": "https://github.com/uit-25730067-chithanh/CS115-Team05-PG"
+                "link": "https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient"
             },
             {
                 "name": "AI002-Team22-DT10",
@@ -74,9 +74,9 @@ class AboutMe:
                 "link": "https://github.com/uit-25730067-chithanh/CS114-Team10-Elderly-Scam-Detection"
             },
             {
-                "name": "cs112-biolcs",
+                "name": "CS112-BIOLCS",
                 "focus": "Genomics Sequence Alignment, Hirschberg DP, 3D WebGL",
-                "link": "https://github.com/uit-25730067-chithanh/cs112-biolcs"
+                "link": "https://github.com/uit-25730067-chithanh/CS112-BIOLCS"
             }
         ]
 
@@ -105,12 +105,12 @@ print("Let's connect:", me.connect())
 
 | Project | Domain | Description | Links |
 | :--- | :--- | :--- | :---: |
-| **[SS004.10_FinalProject_TicTacToe](https://github.com/uit-25730067-chithanh/SS004.10_FinalProject_TicTacToe)** | Game AI & Minimax | Game theory and Tic-Tac-Toe AI implementation leveraging the Minimax algorithm for optimal decision-making | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://uit-ace-tictactoe-game.vercel.app/) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/SS004.10_FinalProject_TicTacToe) |
-| **[CS115-Team05-PG](https://github.com/uit-25730067-chithanh/CS115-Team05-PG)** | Reinforcement Learning | PyTorch implementation of REINFORCE Policy Gradient algorithm for Gymnasium classic control | [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/CS115-Team05-PG) |
-| **[AI002-Team22-DT10](https://github.com/uit-25730067-chithanh/AI002-Team22-DT10)** | Responsible AI & Agritech | Crop planning and coffee price forecasting system built on the 5 Pillars of Responsible AI | [![Slides](https://img.shields.io/badge/Slides-GitHub_Pages-222222?style=flat-square&logo=githubpages)](https://uit-25730067-chithanh.github.io/uit-ai002-coffee-frontend-slide/) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/AI002-Team22-DT10) |
+| **[SS004-Team10-TicTacToe](https://github.com/uit-25730067-chithanh/SS004-Team10-TicTacToe)** | Game AI & Minimax | Game theory and Tic-Tac-Toe AI implementation leveraging the Minimax algorithm for optimal decision-making | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://uit-ace-tictactoe-game.vercel.app/) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/SS004-Team10-TicTacToe) |
+| **[CS115-Team05-Policy-Gradient](https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient)** | Reinforcement Learning | PyTorch implementation of REINFORCE Policy Gradient algorithm for Gymnasium classic control | [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/CS115-Team05-Policy-Gradient) |
+| **[AI002-Team22-DT10](https://github.com/uit-25730067-chithanh/AI002-Team22-DT10)** | Responsible AI & Agritech | Crop planning and coffee price forecasting system built on the 5 Pillars of Responsible AI | [![Slides](https://img.shields.io/badge/Slides-GitHub_Pages-222222?style=flat-square&logo=githubpages)](https://uit-25730067-chithanh.github.io/ai002-coffee-slide/) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/AI002-Team22-DT10) |
 | **[CS106-Team09-Fraud-Detection](https://github.com/uit-25730067-chithanh/CS106-Team09-Fraud-Detection)** | Knowledge Graph & ML | Financial fraud detection system using double-entry bookkeeping representation on extreme class-imbalanced data | [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/CS106-Team09-Fraud-Detection) |
 | **[CS114-Team10-Elderly-Scam-Detection](https://github.com/uit-25730067-chithanh/CS114-Team10-Elderly-Scam-Detection)** | Machine Learning & NLP | Psychological manipulation scam detection system protecting elderly Vietnamese users across 6 deception tactics | [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://elderly-scam-detection.streamlit.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/CS114-Team10-Elderly-Scam-Detection) |
-| **[cs112-biolcs](https://github.com/uit-25730067-chithanh/cs112-biolcs)** | Algorithms & 3D WebGL | Interactive plant genomics sequence alignment and LCS visualizer featuring Grid DP, 2-Row DP, Hirschberg, and 3D DNA Helix | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://biolcs.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/cs112-biolcs) |
+| **[CS112-BIOLCS](https://github.com/uit-25730067-chithanh/CS112-BIOLCS)** | Algorithms & 3D WebGL | Interactive plant genomics sequence alignment and LCS visualizer featuring Grid DP, 2-Row DP, Hirschberg, and 3D DNA Helix | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://biolcs.vercel.app) [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/uit-25730067-chithanh/CS112-BIOLCS) |
 
 ## 🧠 Tech Stack & Tools
 
