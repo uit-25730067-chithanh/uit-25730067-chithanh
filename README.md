@@ -5,15 +5,15 @@
     </td>
     <td width="70%" align="center">
       <div>
-        <img src="https://media.giphy.com/media/Kz64pntRSucW2RWwuW/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/N21liQEw3Us88tpRr7/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/osFXdAVRoXTQe9oMB3/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/SjJuTq1vuNSzLzjHsq/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/mcaH3uGYxz6PbU8cdw/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/H3UaAR5GEDUIsJClVV/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/IMDQ0mzEBERkcG7eeY/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/CM72czeu7SmbiEY6Ms/giphy.gif" width="60px" />
-        <img src="https://media.giphy.com/media/kuGJRirBYiswwEKWo4/giphy.gif" width="60px" />
+        <img src="./images/ducks/duck-01.gif" width="60px" />
+        <img src="./images/ducks/duck-02.gif" width="60px" />
+        <img src="./images/ducks/duck-03.gif" width="60px" />
+        <img src="./images/ducks/duck-04.gif" width="60px" />
+        <img src="./images/ducks/duck-05.gif" width="60px" />
+        <img src="./images/ducks/duck-06.gif" width="60px" />
+        <img src="./images/ducks/duck-07.gif" width="60px" />
+        <img src="./images/ducks/duck-08.gif" width="60px" />
+        <img src="./images/ducks/duck-09.gif" width="60px" />
       </div>
       <h1>👋 Hi, Chí Thanh here!</h1>
       <p width="100%" align="center">
@@ -116,8 +116,8 @@ print("Let's connect:", me.connect())
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,git,github,docker,vercel,aws" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,nestjs,typescript,postgresql,mongodb,redis" />
+    <img src="./images/tech-stack/row-1.svg" /><br/>
+    <img src="./images/tech-stack/row-2.svg" />
   </a>
 </p>
 
