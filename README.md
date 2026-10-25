@@ -93,7 +93,7 @@ class AboutMe:
         return {
             "Portfolio": "https://anhcutist.me",
             "LinkedIn": "https://linkedin.com/in/chithanhdang",
-            "GitHub": "https://github.com/uit-25730067-chithanh"
+            "GitHub": "https://github.com/tcdtist"
         }
 
 
